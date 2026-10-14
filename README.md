@@ -1,14 +1,15 @@
 # figma-comments
+**Figma's official MCP** server **reads the design but not its comments**, so this skill calls the
+Figma REST API directly with your own personal access token.
 
-A Claude Code skill that lists the **unresolved comment threads** on a Figma file, with their
+This is a Claude Code skill that lists the **unresolved comment threads** on a Figma file, with their
 replies and a link to each commented node. Ask Claude things like:
 
 - "What's still open in this Figma file?" + a figma.com link
 - "Figma comments that mention me"
 - "Did anyone reply to my comments in Figma?"
 
-Figma's official MCP server reads the design but not its comments, so this skill calls the
-Figma REST API directly with your own personal access token.
+
 
 ## Install
 
