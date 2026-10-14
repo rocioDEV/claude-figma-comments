@@ -1,0 +1,14 @@
+{
+  "name": "claude-figma-comments",
+  "description": "A Claude Code skill to list the unresolved comment threads on a Figma file.",
+  "owner": {
+    "name": "rocioDEV"
+  },
+  "plugins": [
+    {
+      "name": "figma-comments",
+      "source": "./plugins/figma-comments",
+      "description": "List the unresolved comment threads on a Figma file, filtered by mention or by who took part."
+    }
+  ]
+}

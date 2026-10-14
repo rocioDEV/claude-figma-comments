@@ -1,0 +1,10 @@
+{
+  "name": "figma-comments",
+  "version": "0.1.0",
+  "description": "List the unresolved comment threads on a Figma file, filtered by mention or by who took part.",
+  "author": {
+    "name": "rocioDEV"
+  },
+  "repository": "https://github.com/rocioDEV/claude-figma-comments",
+  "license": "MIT"
+}
