@@ -5,9 +5,10 @@ Figma REST API directly with your own personal access token.
 This is a Claude Code skill that lists the **unresolved comment threads** on a Figma file, with their
 replies and a link to each commented node. Ask Claude things like:
 
-- "What's still open in this Figma file?" + a figma.com link
-- "Figma comments that mention me"
-- "Did anyone reply to my comments in Figma?"
+
+> - "What's still open in this Figma file?" + a figma.com link
+> - "Figma comments that mention me"
+> - "Did anyone reply to my comments in Figma?"
 
 
 
